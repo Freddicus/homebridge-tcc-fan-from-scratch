@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomebridgeHoneywellTccFanControl",
   "pluginType": "platform",
   "singular": true,
   "schema": {
